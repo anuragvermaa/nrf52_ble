@@ -21,12 +21,12 @@
     ```
     #ifndef APP_CONFIG_H
     #define APP_CONFIG_H
-     
+    #endif
+    
     #ifndef NRF_SDH_BLE_VS_UUID_COUNT
     #define NRF_SDH_BLE_VS_UUID_COUNT 1             // number of service uuid
     #endif
     
-    #endif
     ```
     
     - Go Project options by right clicking on *Project directory*
