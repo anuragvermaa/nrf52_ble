@@ -1,5 +1,5 @@
 # nrf52_ble
-### 1. Setup nrf52 BLE folder for development:
+### Setup nrf52 BLE folder for development:
 - **Create folder for custom services inside directory**
     - custom_services
         - custom_services.h
@@ -30,3 +30,8 @@
     - *Preprocessor>>Preprocessor definitions* and add:
         - USE_APP_CONFIG
         
+        
+
+    
+    
+    
